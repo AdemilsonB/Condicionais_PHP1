@@ -1,0 +1,33 @@
+body 
+{
+	font-family: Verdana;
+	font-size: 14px;
+	background-color: #BBFFFF;
+}
+.btn 
+{
+	border-radius: 8px;
+	padding: 5px;
+	border-style: black;
+	border-width: 2px; 
+	border-color: grey;
+	color: #696969;
+}
+.send {
+	background-color: #FFF68F;
+	color: black;
+}
+.send:hover
+{
+	background-color: #FAFAD2;
+}
+.cor1
+{
+	color: #00008B;
+}
+.send2
+{
+	background-color: #FFA54F;
+	color: black;
+
+}
